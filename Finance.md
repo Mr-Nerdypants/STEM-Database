@@ -24,7 +24,7 @@
   - [Spotting the black swan: How one-off events can be predicted](https://www.financialdirector.co.uk/2019/06/19/spotting-the-black-swan-how-one-off-events-can-be-predicted/)
 - Curiousily
   - [Time Series Anomaly Detection with LSTM Autoencoders using Keras in Python](https://curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/#anomaly-detection)
--Medium
+- Medium
   - [The Black Swan in Artificial Intelligence Part II](https://jrodthoughts.medium.com/the-black-swan-in-artificial-intelligence-part-ii-9a6fe28c023f)
 
 
