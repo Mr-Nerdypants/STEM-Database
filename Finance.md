@@ -32,3 +32,6 @@
 # Videos
 - [James Simons - Mathematics, Common Sense, and Good Luck: My Life and Careers](https://www.youtube.com/watch?v=SVdTF4_QrTM)
 - [QRM Tutorial](https://www.youtube.com/channel/UCZ0TD2mCnMXNEfxeptcoFoA/videos) - Quant Risk Management
+
+# Reddit
+- [Trend Following with Python](https://www.reddit.com/r/algotrading/comments/m6oyd4/trend_following_with_python/)
