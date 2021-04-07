@@ -17,10 +17,17 @@
 # Data
 - [squeezemetrics](https://squeezemetrics.com/monitor)
 
-# Medium Articles
-- [The Black Swan in Artificial Intelligence Part II](https://jrodthoughts.medium.com/the-black-swan-in-artificial-intelligence-part-ii-9a6fe28c023f)
 
-# Other
+# Articles
 - Financial Director
   - [Data and AI helping prep finance function for black swans](https://www.financialdirector.co.uk/2020/03/20/data-and-ai-helping-prep-finance-function-for-black-swans/)
   - [Spotting the black swan: How one-off events can be predicted](https://www.financialdirector.co.uk/2019/06/19/spotting-the-black-swan-how-one-off-events-can-be-predicted/)
+- Curiousily
+  - [Time Series Anomaly Detection with LSTM Autoencoders using Keras in Python](https://curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/#anomaly-detection)
+-Medium
+  - [The Black Swan in Artificial Intelligence Part II](https://jrodthoughts.medium.com/the-black-swan-in-artificial-intelligence-part-ii-9a6fe28c023f)
+
+
+# Videos
+- [James Simons - Mathematics, Common Sense, and Good Luck: My Life and Careers](https://www.youtube.com/watch?v=SVdTF4_QrTM)
+- [QRM Tutorial](https://www.youtube.com/channel/UCZ0TD2mCnMXNEfxeptcoFoA/videos) - Quant Risk Management
